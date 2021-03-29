@@ -12,7 +12,7 @@ kivy.deps.sdl2==0.1.18
 kiwisolver==1.0.1
 matplotlib==2.2.3
 numpy==1.15.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.2.0
 pypiwin32==223
 python-dateutil==2.7.3
